@@ -39,7 +39,11 @@ python list.py -li
 ```
 
 ### Editing an user information
-``` python list.py -ed --username='new_name' --user_id='new_id' --user_email='new_email' ```
+``` 
+python list.py -ed --username='new_name' --user_id='new_id' --user_email='new_email'
+```
 
 ### Deleting a user 
-``` python list.py -r=index ```
+``` 
+python list.py -r=index
+```
