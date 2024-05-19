@@ -4,7 +4,7 @@ A user list with user details, accessible using command line
 ## How to use and access ?
 
 * Navigate to the desired location and clone the repository.
-``` git clone https://www.github.com/SohamD34/CMD-User-List.git ```
+''' git clone https://www.github.com/SohamD34/CMD-User-List.git '''
 
 * In CMD, navigate to the folder location
 ``` cd your_desired_folder/ ```
